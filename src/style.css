@@ -1,0 +1,32 @@
+.pad20 {
+    padding : 20px 40px;
+}
+
+.nav-vertical { 
+    margin-top:50px;
+    width:200px;
+    padding-left:0!important;
+    float:left;
+}
+
+.nav-vertical ul li {
+    padding-left:10px;
+    border-bottom : solid #ececec 1px;
+    width:200px;
+}
+
+.content_body {
+    width:1480px;
+    height:1000px; 
+    float:left;
+    padding-left:200px;
+    padding-top:50px;
+}
+
+/*
+.body {
+    background-color: #f6f6f6;
+    width:2000px;
+    height:1000px;
+}
+*/
